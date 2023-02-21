@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14e4cda2-9602-4adc-b532-28b38a516fe1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/BuyLandCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/EndGameCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/EndTurnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/FlushEventQueueCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/GameCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/ShowBarnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/CommandWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/exception/GameStartedWithoutPlayersException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/log/EventLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/log/LogEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/map/BiotopeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/map/CultivableTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/market/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/market/PriceIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/market/PriceIndicatorRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/time/CultivableMapCountdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/time/SpoilCountdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/Beispiel-Interaktion-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/complete.txt" afterDir="false" />
+    </list>
+    <list id="1183dc8e-58d1-4ee4-99fa-2b026990d616" name="Changes by tobias" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/growable/Growable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/growable/PlantType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/map/Barn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/map/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/map/TileMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/time/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/time/GrowthCountdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/time/MasterClock.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LjvuCfH4oLbPuwogWklsaepGpr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/home/outlaw/Schreibtisch/Abschlussaufgabe-A-2023-Organisation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.saveactions",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="Application" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Abschlussaufgabe-A2023">
+    <configuration name="Beispiel-Interaktion-1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Abschlussaufgabe-A2023" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/src/main/test/Beispiel-Interaktion-1.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Default" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/corretto-17.0.6" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Abschlussaufgabe-A2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Abschlussaufgabe-A2023" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Abschlussaufgabe-A2023" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Abschlussaufgabe-A2023" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Beispiel-Interaktion-1" />
+      <item itemvalue="Application.Default" />
+      <item itemvalue="JUnit.All in Abschlussaufgabe-A2023" />
+      <item itemvalue="JUnit.ApplicationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Abschlussaufgabe-A2023" />
+        <item itemvalue="JUnit.ApplicationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14e4cda2-9602-4adc-b532-28b38a516fe1" name="Changes" comment="" />
+      <created>1676397528051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676397528051</updated>
+      <workItem from="1676397529112" duration="9827000" />
+      <workItem from="1676831380842" duration="8834000" />
+      <workItem from="1676855995963" duration="41452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

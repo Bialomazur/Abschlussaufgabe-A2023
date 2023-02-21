@@ -1,0 +1,138 @@
+ How many players?
+ > 3
+ Enter the name of player 1:
+ > Mira
+ Enter the name of player 2:
+ > Milan
+ Enter the name of player 3:
+ > Vincent
+ With how much gold should each player start?
+ > 42
+ With how much gold should a player win?
+ > 50
+ Please enter the seed used to shuffle the tiles:
+ > 6
+ It is Mira's turn!
+ > show barn
+ Barn (spoils in 6 turns)
+ carrots:
+ 1
+ mushrooms: 1
+ salads:
+ 1
+ tomatoes:
+ 1
+ -------------
+ Sum:
+ 4
+ Gold:
+ 42
+> show board
+| Fi *|
+|
+ |
+| 0/4 |
+| G * |
+ | G * |
+|
+ | B 6 |
+ |
+| 0/2 |
+ | 0/2 |
+> show market
+mushrooms: 16
+carrots:
+ 2
+tomatoes:
+ 6
+salads:
+ 4
+> sell carrot
+You have sold 1 vegetable for 2 gold.
+> show barn
+Barn (spoils in 6 turns)
+mushrooms: 1
+salads:
+ 1
+tomatoes:
+ 1
+-------------
+Sum:
+ 3
+Gold:
+ 44
+> plant 1 0 tomato
+It is Milan's turn!
+> end turn
+It is Vincent's turn!
+> end turn
+It is Mira's turn!
+> show board
+| Fi *|
+|
+ |
+| 0/4 |
+| G * |
+ | G 2 |
+|
+ | B 5 | T |
+| 0/2 |
+ | 1/2 |
+> end turn
+It is Milan's turn!
+> end turn
+It is Vincent's turn!
+> end turn
+It is Mira's turn!
+> show board
+| Fi *|
+|
+ |
+| 0/4 |
+| G * |
+ | G 1 |
+|
+ | B 4 | T |
+| 0/2 |
+ | 1/2 |
+> end turn
+It is Milan's turn!
+> end turn
+It is Vincent's turn!
+> end turn
+It is Mira's turn!
+1 vegetable has grown since your last turn.
+> show barn
+Barn (spoils in 3 turns)
+mushrooms: 1
+salads:
+ 1
+-------------
+Sum:
+ 2
+Gold:
+ 44
+> harvest 1 0 2
+You have harvested 2 tomatoes.
+> show barn
+Barn (spoils in 3 turns)
+mushrooms: 1
+salads:
+ 1
+tomatoes:
+ 2
+-------------
+Sum:
+ 4
+Gold:
+ 44
+> sell mushroom salad tomato tomato
+You have sold 4 vegetables for 32 gold.
+It is Milan's turn!
+> end turn
+It is Vincent's turn!
+> end turn
+Player 1 (Mira): 76
+Player 2 (Milan): 42
+Player 3 (Vincent): 42
+Mira has won!

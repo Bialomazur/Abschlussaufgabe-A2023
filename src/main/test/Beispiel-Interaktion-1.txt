@@ -1,0 +1,29 @@
+3
+Mira
+Milan
+Vincent
+42
+50
+6
+show barn
+show board
+show market
+sell carrot
+show barn
+plant 1 0 tomato
+end turn
+end turn
+show board
+end turn
+end turn
+end turn
+show board
+end turn
+end turn
+end turn
+show barn
+harvest 1 0 2
+show barn
+sell mushroom salad tomato tomato
+end turn
+end turn
